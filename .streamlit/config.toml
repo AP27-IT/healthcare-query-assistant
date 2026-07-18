@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#0E4F52"
+backgroundColor = "#F4F7F6"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#16262A"
+font = "sans serif"

@@ -1,0 +1,28 @@
+Hospital Emergency Care Policy
+
+1. Emergency Treatment Guarantee
+The hospital provides emergency medical treatment to any patient presenting
+with an emergency condition regardless of insurance status or ability to pay,
+in accordance with emergency care regulations. Stabilizing treatment is never
+delayed pending insurance verification.
+
+2. Triage Process
+All emergency patients are triaged by a qualified nurse immediately upon
+arrival. Triage priority is assigned based on the severity of the condition,
+not order of arrival. Life-threatening conditions receive immediate
+attention.
+
+3. Emergency Admission
+Patients requiring further treatment following emergency stabilization are
+admitted under the Emergency admission type. Emergency admissions bypass the
+standard scheduling process and are prioritized for bed assignment.
+
+4. Notification of Family or Guardian
+For patients unable to communicate, the emergency team will make reasonable
+efforts to contact next of kin or a legal guardian as soon as possible after
+stabilization.
+
+5. Post-Emergency Follow-Up
+Patients discharged from the emergency department receive written discharge
+instructions and, where appropriate, a referral for follow-up care with a
+specialist or primary care physician.

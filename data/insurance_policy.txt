@@ -1,0 +1,29 @@
+Hospital Insurance Policy
+
+1. Accepted Insurance Providers
+The hospital accepts a range of insurance providers including Blue Cross,
+Medicare, Aetna, UnitedHealthcare, and Cigna. Coverage details vary by plan,
+and patients should verify their specific benefits before elective
+procedures.
+
+2. Pre-Authorization Requirements
+Prior insurance approval, also known as pre-authorization, is required for
+non-emergency surgeries, advanced imaging (MRI, CT scans), and extended
+inpatient stays beyond the initial authorized period. Emergency procedures do
+not require pre-authorization but must be reported to the insurer within 48
+hours of admission.
+
+3. Coverage Verification
+The hospital's insurance desk verifies patient coverage at the time of
+admission where possible. Patients are responsible for confirming that their
+plan covers the specific hospital, physician, and treatment being provided,
+as out-of-network care may result in higher out-of-pocket costs.
+
+4. Denied Claims
+If an insurance claim is denied, the billing department will notify the
+patient in writing and provide guidance on the appeals process. Patients may
+also file their own appeal directly with their insurance provider.
+
+5. Uninsured Patients
+Patients without insurance coverage are billed directly at standard rates and
+may be eligible for the hospital's financial assistance program.

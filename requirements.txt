@@ -1,0 +1,8 @@
+streamlit>=1.32
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+faiss-cpu>=1.7.4
+sentence-transformers>=2.5.0
+transformers>=4.38.0
+torch>=2.1.0

@@ -1,0 +1,29 @@
+Hospital Billing Policy
+
+1. Billing Amount Composition
+The total billing amount for a patient stay includes room charges, physician
+fees, medication costs, laboratory and diagnostic test fees, and any
+procedure-specific charges. Billing amounts are calculated per admission and
+finalized at the time of discharge.
+
+2. Payment Methods
+The hospital accepts payment via insurance billing, credit or debit card,
+bank transfer, and approved payment plans. Payment plans require prior
+approval from the billing department and are available for balances exceeding
+a set threshold.
+
+3. Insurance Claims
+For patients with insurance coverage, the hospital submits claims directly to
+the listed insurance provider. Patients are responsible for any co-payment,
+deductible, or amount not covered by their plan. Claim disputes must be
+raised with the billing office within 60 days of the invoice date.
+
+4. Billing Disputes
+Patients who believe their bill contains an error may request an itemized
+statement and file a formal dispute with the billing department within 30
+days of receiving the invoice. Disputes are reviewed within 10 business days.
+
+5. Financial Assistance
+Patients experiencing financial hardship may apply for a reduction or waiver
+of charges through the hospital's financial assistance program, subject to
+income verification.

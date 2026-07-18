@@ -1,0 +1,28 @@
+Hospital Admission Policy
+
+1. General Admission Process
+Patients may be admitted under three categories: Elective, Urgent, or Emergency.
+Elective admissions require a scheduled appointment and pre-admission clearance
+from the attending physician at least 48 hours in advance. Urgent admissions
+require physician referral and are processed within 24 hours. Emergency
+admissions are accepted immediately without prior scheduling, through the
+Emergency Department, 24 hours a day, 7 days a week.
+
+2. Required Documentation
+All patients must present a valid government-issued photo ID and their
+insurance card at the time of admission. For elective admissions, patients
+must also provide a referral letter and any relevant prior medical records.
+
+3. Room Assignment
+Room assignment is based on medical necessity, bed availability, and patient
+preference where possible. Isolation rooms are reserved for patients with
+infectious conditions as determined by the attending physician.
+
+4. Minors and Guardianship
+Patients under 18 years of age must be accompanied by a parent or legal
+guardian who is authorized to consent to treatment on the patient's behalf.
+
+5. Admission Fees
+A standard admission processing fee applies to all Elective admissions and is
+billed separately from treatment costs. Emergency and Urgent admissions are
+exempt from this processing fee.
