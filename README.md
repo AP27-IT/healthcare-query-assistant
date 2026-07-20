@@ -188,3 +188,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [FAISS](https://github.com/facebookresearch/faiss) by Meta AI for vector search
 - [Google's FLAN-T5](https://huggingface.co/google/flan-t5-base) for generation
 - [Streamlit](https://streamlit.io/) for the app framework
+
+
+Live Demo :- https://healthcare-query-assistant-njgu7efjzj2kk82bqbcwko.streamlit.app/
